@@ -15,4 +15,4 @@ Technologies Used:
 	•	OpenCV
 	•	YOLO Model
 	•	TensorFlow/Keras
-	•	Drone SDK (if applicable)
+	•	Drone Tello 
